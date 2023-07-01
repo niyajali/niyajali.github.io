@@ -6,8 +6,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.niyaj.popos",
-      "sha256_cert_fingerprints": [
-        "3A:29:A2:23:65:A7:00:4C:A2:C0:58:95:AD:F6:82:56:FB:1A:DC:20:A2:07:EC:0F:8D:5B:1C:34:42:CC:A9:22",
+      "sha256_cert_fingerprints": [  
         "A3:62:49:CE:9D:93:6D:B2:35:A4:00:07:38:B0:36:41:73:DE:78:75:14:D0:5D:1D:1A:37:D7:21:90:A7:04:E9"
       ]
     }
